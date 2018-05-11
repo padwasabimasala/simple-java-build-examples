@@ -66,6 +66,10 @@ gradle build
 java -cp ./build/classes/java/main hello.HelloWorld 
 ```
 
+# License
+
+Original authors rights reserved otherwise this software is free to use under the terms of the MIT License
+
 > The path of life leads upward for the prudent 
 > to keep them from going down to the realm of the dead.
 > -- Proverbs 15:24
